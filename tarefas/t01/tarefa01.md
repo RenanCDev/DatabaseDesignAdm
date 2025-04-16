@@ -19,3 +19,7 @@
 ### - [Q14](tarefa01-q14.sql)
 
 ### - [Q16](tarefa01-q16.sql)
+
+### - [QF](tarefa01-F.md)
+
+### - [QG](tarefa01-G.md)
